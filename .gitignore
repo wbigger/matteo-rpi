@@ -1,0 +1,9 @@
+.bash_history
+.node_repl_history
+.viminfo
+*.out
+.bash_logout
+.config
+.bashrc
+.npm
+.profile
